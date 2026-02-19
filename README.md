@@ -2,8 +2,8 @@
 
 - meu nome é antônio guilherme rita meduna🎸
 - eu gosto de tocar musicas, e agora irei recomendar duas lojas
-- a primeira [https://www.gibson.com/]
-- a segunda [https://www.ibanez.com/na/]
+- a primeira [gibson](https://www.gibson.com/)
+- a segunda [ibanez](https://www.ibanez.com/na/)
 # entre em contato comigo pelo o meu email
 
 antonio.meduna@escola.pr.gov.br
